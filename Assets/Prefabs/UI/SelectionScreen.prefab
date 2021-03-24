@@ -612,7 +612,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Track1
+          m_StringArgument: Racetrack
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &3790965582902440959
@@ -741,7 +741,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Track1
+          m_StringArgument: Mountain Road
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &3790965582937667306

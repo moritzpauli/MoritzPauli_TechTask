@@ -5001,7 +5001,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 4.1749e-41, y: 3e-45, z: 0, w: -3.1218758}
+  m_BoundingSphereOverride: {x: 0, y: 9.23011e+30, z: 4.5904e-41, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -19770,6 +19770,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 886443302}
+    - target: {fileID: 8948669652692382354, guid: 44250ac3448719e46b2024b3306cdaad,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
+      value: Mountain Road
+      objectReference: {fileID: 0}
     - target: {fileID: 8948669652861493853, guid: 44250ac3448719e46b2024b3306cdaad,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -19780,6 +19785,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 886443302}
+    - target: {fileID: 8948669652861493853, guid: 44250ac3448719e46b2024b3306cdaad,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
+      value: Racetrack
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44250ac3448719e46b2024b3306cdaad, type: 3}
 --- !u!1 &5310346558963163170

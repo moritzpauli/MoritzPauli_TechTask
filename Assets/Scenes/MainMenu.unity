@@ -6992,7 +6992,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Racetrack
+          m_StringArgument: Mountain Road
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2038893439
@@ -7462,30 +7462,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: SelectionScreen
       objectReference: {fileID: 0}
-    - target: {fileID: 3790965582209031049, guid: bd422eaa1a67ab3469dd98744904c1cc,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 478840032}
     - target: {fileID: 3790965582800429874, guid: bd422eaa1a67ab3469dd98744904c1cc,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 478840032}
-    - target: {fileID: 3790965582800429874, guid: bd422eaa1a67ab3469dd98744904c1cc,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Mountain Road
-      objectReference: {fileID: 0}
-    - target: {fileID: 3790965582902440957, guid: bd422eaa1a67ab3469dd98744904c1cc,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 478840032}
     - target: {fileID: 3790965582902440957, guid: bd422eaa1a67ab3469dd98744904c1cc,
         type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Racetrack
-      objectReference: {fileID: 0}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 478840032}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd422eaa1a67ab3469dd98744904c1cc, type: 3}
